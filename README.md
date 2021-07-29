@@ -51,21 +51,13 @@ vscode用户可参考以下配置，修改`launch.json`实现Chrome跨域调试�
 ### 开发者
 感谢以下做出贡献的开发者：
 
-<a href="https://github.com/InteractivePlus
-/
-PDK2021-FrontendCore/contributors">
-  <img src="https://contributors-img.web.app/image?repo=InteractivePlus
-/
-PDK2021-FrontendCore" />
+<a href="https://github.com/InteractivePlus/PDK2021-FrontendCore/contributors">
+  <img src="https://contributors-img.web.app/image?repo=InteractivePlus/PDK2021-FrontendCore" />
 </a>
 
 以及OpenAPI-Frontend（PDK前端项目前身）的开发者：
-<a href="https://github.com/InteractivePlus
-/
-OPENAPI2020-Frontend-React/contributors">
-  <img src="https://contributors-img.web.app/image?repo=InteractivePlus
-/
-OPENAPI2020-Frontend-React" />
+<a href="https://github.com/InteractivePlus/OPENAPI2020-Frontend-React/contributors">
+  <img src="https://contributors-img.web.app/image?repo=InteractivePlus/OPENAPI2020-Frontend-React" />
 </a>
 
 ## 亿些小细节
